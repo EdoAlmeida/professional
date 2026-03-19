@@ -4,8 +4,8 @@ title: "Edo W. Almeida"
 permalink: /
 
 header:
-  overlay_image: /assets/images/industrial.png
-  overlay_filter: 0.65
+  # overlay_image: /assets/images/industrial.png
+  # overlay_filter: 0.65
 
 excerpt: "Control and Automation Engineer working with industrial machines, automation systems and technical solutions."
 
