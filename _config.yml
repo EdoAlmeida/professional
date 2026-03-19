@@ -1,8 +1,12 @@
-theme: minimal-mistakes-jekyll
-
 title: "Edo Almeida"
-description: "Professional site"
+description: "Professional website"
+
 url: "https://edoalmeida.github.io"
 baseurl: "/professional"
+
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+
+plugins:
+  - jekyll-include-cache
 
 minimal_mistakes_skin: "air"
