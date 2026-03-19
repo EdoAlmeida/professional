@@ -1,12 +1,30 @@
+---
+layout: splash
 title: "Edo Almeida"
-description: "Professional website"
+permalink: /
 
-url: "https://edoalmeida.github.io"
-baseurl: "/professional"
+header:
+  overlay_image: /assets/images/industrial.jpg
+  overlay_filter: 0.4
+  caption: "Industrial Automation and Engineering"
 
-remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+excerpt: "Control and Automation Engineer working with industrial machines, automation systems and technical solutions."
 
-plugins:
-  - jekyll-include-cache
+actions:
+  - label: "Projects"
+    url: /projects/
+  - label: "Contact"
+    url: /contact/
 
-minimal_mistakes_skin: "contrast"
+feature_row:
+  - title: "Industrial Automation"
+    excerpt: "Development and improvement of control systems for machines and industrial processes."
+
+  - title: "Industrial Machines"
+    excerpt: "Technical work with industrial equipment, including diagnostics, improvements and operation."
+
+  - title: "Projects and Solutions"
+    excerpt: "Integration of electrical and mechanical systems, reliability and technical solutions."
+---
+
+{% include feature_row %}
