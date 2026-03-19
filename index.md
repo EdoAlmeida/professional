@@ -4,8 +4,8 @@ title: "Edo W. Almeida"
 permalink: /
 
 header:
-  overlay_image: /assets/images/industrial.jpg
-  overlay_filter: 0.4
+  overlay_image: /assets/images/industrial.png
+  overlay_filter: 0.7
   caption: "Industrial Automation and Engineering"
   actions:
     - label: "Projects"
