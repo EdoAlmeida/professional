@@ -1,6 +1,8 @@
 theme: minimal-mistakes-jekyll
 
 title: "Edo Almeida"
-description: "Control and Automation Engineer focused on industrial machines and automation"
+description: "Professional site"
+url: "https://edoalmeida.github.io"
+baseurl: "/professional"
 
-minimal_mistakes_skin: air
+minimal_mistakes_skin: "air"
