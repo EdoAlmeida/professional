@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: "Edo W. Almeida"
+description: "Industrial Automation and Engineering"
 permalink: /
 
 header:
