@@ -5,7 +5,7 @@ permalink: /
 
 header:
   overlay_image: /assets/images/industrial.png
-  overlay_filter: 0.5
+  overlay_filter: 0.6
   caption: "Industrial Automation and Engineering"
 
 excerpt: "Control and Automation Engineer working with industrial machines, automation systems and technical solutions."
