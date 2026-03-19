@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Edo Almeida"
+title: "Edo W. Almeida"
 permalink: /
 
 header:
