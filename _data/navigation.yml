@@ -1,0 +1,15 @@
+main:
+  - title: "About"
+    url: /about/
+
+  - title: "Areas"
+    url: /areas/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Contact"
+    url: /contact/
+
+  - title: "Academic"
+    url: "https://edoalmeida.github.io"
