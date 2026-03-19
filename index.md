@@ -9,7 +9,7 @@ header:
 
 excerpt: "Control and Automation Engineer working with industrial machines, automation systems and technical solutions."
 
-action:
+actions:
   - label: "Projects"
     url: "/projects/"
   - label: "Contact"
