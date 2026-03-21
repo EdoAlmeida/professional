@@ -4,19 +4,18 @@ title: "Contato"
 permalink: /contato/
 header:
   overlay_image: /assets/images/ia_industria.jpg
-  overlay_filter: 0.7
-
-excerpt: "Engenheiro de Controle e Automação com atuação em máquinas industriais, automação e soluções técnicas."
+  overlay_filter: 0.65
 ---
 
-Estou disponível para contato profissional e troca de informações nas áreas de automação, máquinas industriais e projetos técnicos.
+Disponível para oportunidades profissionais, projetos e troca de informações nas áreas de automação, máquinas industriais e soluções técnicas.
 
-## Canais
+## Contato
 
-- **LinkedIn:** [seu link aqui]
-- **GitHub:** [seu link aqui]
-- **Perfil acadêmico:** [https://edoalmeida.github.io](https://edoalmeida.github.io)
+- LinkedIn: https://www.linkedin.com/in/edo-almeida
+- GitHub: https://github.com/EdoAlmeida
+- Perfil acadêmico: https://edoalmeida.github.io
 
 ## E-mail
 
-- **contato@edoalmeida.com**
+- contato@edoalmeida.com
+- edo.almeida@outlook.com
