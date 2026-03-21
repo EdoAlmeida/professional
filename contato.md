@@ -11,9 +11,9 @@ Disponível para oportunidades profissionais, projetos e troca de informações 
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/edo-almeida
-- GitHub: https://github.com/EdoAlmeida
-- Perfil acadêmico: https://edoalmeida.github.io
+- [LinkedIn](https://www.linkedin.com/in/edo-almeida)
+- [GitHub](https://github.com/EdoAlmeida)
+- [Perfil acadêmico](https://edoalmeida.github.io)
 
 ## E-mail
 
