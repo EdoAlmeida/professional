@@ -1,15 +1,15 @@
 main:
-  - title: "About"
-    url: /about/
+  - title: "Sobre"
+    url: /sobre/
 
-  - title: "Areas"
-    url: /areas/
+  - title: "Atuação"
+    url: /atuacao/
 
-  - title: "Projects"
+  - title: "Projetos"
     url: /projects/
 
-  - title: "Contact"
+  - title: "Contato"
     url: /contact/
 
-  - title: "Academic"
+  - title: "Acadêmico"
     url: "https://edoalmeida.github.io"
