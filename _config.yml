@@ -10,3 +10,21 @@ plugins:
   - jekyll-include-cache
 
 minimal_mistakes_skin: "air"
+
+atom_feed:
+  hide: true
+
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/edo-almeida"
+
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/EdoAlmeida"
+
+    - label: "Acadêmico"
+      icon: "fas fa-graduation-cap"
+      url: "https://edoalmeida.github.io"
+      
