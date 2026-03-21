@@ -4,17 +4,20 @@ title: "Edo W. Almeida"
 description: "Industrial Automation and Engineering"
 permalink: /
 
+excerpt: "Engenheiro de Controle e Automação atuando com máquinas industriais, automação e soluções técnicas."
+
 header:
   overlay_image: /assets/images/industrial.png
   overlay_filter: 0.7
   caption: "Industrial Automation and Engineering"
-  actions:
-    - label: "Projects"
+  actions:  
+    - label: "Projetos"
       url: "/projects/"
-    - label: "Contact"
+    - label: "Contato"
       url: "/contact/"
 
-excerpt: "Control and Automation Engineer working with industrial machines, automation systems and technical solutions."
+excerpt: "Engenheiro de Controle e Automação atuando com máquinas industriais, automação e soluções técnicas."
+
 
 feature_row:
   - title: "Industrial Automation"
