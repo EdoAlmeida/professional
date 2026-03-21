@@ -12,7 +12,7 @@ header:
   caption: "Industrial Automation and Engineering"
   actions:  
     - label: "Projetos"
-      url: "/projeto/"
+      url: "/projetos/"
     - label: "Contato"
       url: "/contato/"
 
