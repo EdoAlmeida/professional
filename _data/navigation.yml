@@ -6,10 +6,10 @@ main:
     url: /atuacao/
 
   - title: "Projetos"
-    url: /projects/
+    url: /projetos/
 
   - title: "Contato"
-    url: /contact/
+    url: /contato/
 
   - title: "Acadêmico"
     url: "https://edoalmeida.github.io"
