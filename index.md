@@ -4,7 +4,7 @@ title: "Edo Almeida"
 permalink: /
 
 header:
-  overlay_image: /assets/images/industrial.jpg
+  overlay_image: /assets/images/industrial.png
   overlay_filter: 0.7
   caption: "Automação industrial, máquinas e soluções técnicas"
   actions:
