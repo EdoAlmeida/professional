@@ -4,7 +4,9 @@ title: "Atuação"
 permalink: /atuacao/
 header:
   overlay_image: /assets/images/lavanderia2.jpg
-  overlay_filter: 0.55
+  overlay_filter: 0.6
+
+  
 ---
 
 ## Automação industrial
