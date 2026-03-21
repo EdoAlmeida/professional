@@ -4,7 +4,7 @@ title: "Contato"
 permalink: /contato/
 header:
   overlay_image: /assets/images/ia_industria.jpg
-  overlay_filter: 0.5
+  overlay_filter: 0.7
 
 excerpt: "Engenheiro de Controle e Automação com atuação em máquinas industriais, automação e soluções técnicas."
 ---
