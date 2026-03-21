@@ -5,7 +5,7 @@ permalink: /sobre/
 
 header:
   overlay_image: /assets/images/sobre.png
-  overlay_filter: 0.5
+  overlay_filter: 0.3
 
 excerpt: "Engenheiro de Controle e Automação com atuação em máquinas industriais, automação e soluções técnicas."
 ---
