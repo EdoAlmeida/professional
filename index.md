@@ -1,33 +1,33 @@
 ---
 layout: splash
-title: "Edo W. Almeida"
-description: "Industrial Automation and Engineering"
+title: "Edo Almeida"
 permalink: /
 
-excerpt: "Engenheiro de Controle e Automação atuando com máquinas industriais, automação e soluções técnicas."
-
 header:
-  overlay_image: /assets/images/industrial.png
+  overlay_image: /assets/images/industrial.jpg
   overlay_filter: 0.7
-  caption: "Industrial Automation and Engineering"
-  actions:  
+  caption: "Automação industrial, máquinas e soluções técnicas"
+  actions:
     - label: "Projetos"
       url: "/projetos/"
     - label: "Contato"
       url: "/contato/"
 
-excerpt: "Engenheiro de Controle e Automação atuando com máquinas industriais, automação e soluções técnicas."
-
+excerpt: "Engenheiro de Controle e Automação com atuação em projetos de máquinas industriais, automação, retrofit e adequação às normas NR-10 e NR-12."
 
 feature_row:
-  - title: "Industrial Automation"
-    excerpt: "Development and improvement of control systems for machines and industrial processes."
+  - title: "Automação de Máquinas"
+    excerpt: "Desenvolvimento de sistemas de controle e automação para equipamentos industriais, com foco em funcionamento e confiabilidade."
 
-  - title: "Industrial Machines"
-    excerpt: "Technical work with industrial equipment, including diagnostics, improvements and operation."
+  - title: "Retrofit e Modernização"
+    excerpt: "Atualização de máquinas e sistemas, integrando novos componentes e melhorando desempenho, segurança e manutenção."
 
-  - title: "Projects and Solutions"
-    excerpt: "Integration of electrical and mechanical systems, reliability and technical solutions."
+  - title: "Segurança de Máquinas"
+    excerpt: "Adequação de equipamentos às normas NR-10 e NR-12, com foco em segurança operacional e conformidade técnica."
 ---
+
+Atuação voltada ao desenvolvimento e melhoria de máquinas industriais, especialmente equipamentos de lavanderias industriais, com foco em automação, integração de sistemas e adequação às normas técnicas.
+
+Experiência em projetos elétricos, programação de CLPs, integração de inversores de frequência, montagem de painéis e suporte técnico à fabricação e testes de máquinas.
 
 {% include feature_row %}
