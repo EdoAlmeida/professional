@@ -12,9 +12,9 @@ header:
   caption: "Industrial Automation and Engineering"
   actions:  
     - label: "Projetos"
-      url: "/projects/"
+      url: "/projeto/"
     - label: "Contato"
-      url: "/contact/"
+      url: "/contato/"
 
 excerpt: "Engenheiro de Controle e Automação atuando com máquinas industriais, automação e soluções técnicas."
 
