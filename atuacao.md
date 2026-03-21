@@ -5,8 +5,8 @@ permalink: /atuacao/
 header:
   overlay_image: /assets/images/lavanderia2.jpg
   overlay_filter: 0.6
-
   
+excerpt: "Engenheiro de Controle e Automação com atuação em máquinas industriais, automação e soluções técnicas."
 ---
 
 ## Automação industrial
