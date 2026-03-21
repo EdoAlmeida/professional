@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.6
 ---
 
-Sou Engenheiro de Controle e Automação, com formação técnica em Eletrotécnica e registro ativo no CREA.
+Sou Engenheiro de Controle e Automação, com formação técnica em Eletrotécnica e registro ativo no CREA-PR.
 
 Atuo como projetista elétrico na área de máquinas industriais, com foco no desenvolvimento de sistemas de automação, segurança de máquinas e adequação de equipamentos às normas NR-10 e NR-12.
 
