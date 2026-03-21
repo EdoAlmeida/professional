@@ -4,16 +4,25 @@ title: "Projetos"
 permalink: /projetos/
 header:
   overlay_image: /assets/images/lavanderia1.png
-  overlay_filter: 0.7
-
-excerpt: "Engenheiro de Controle e Automação com atuação em máquinas industriais, automação e soluções técnicas."
+  overlay_filter: 0.6
 ---
 
-This section presents examples of professional and technical activities related to industrial automation, machines and engineering solutions.
+## Automação de máquinas industriais
 
-## Examples of work
-- Control system improvements
-- Automation solutions for industrial equipment
-- Integration of sensors and actuators
-- Technical upgrades and retrofit
-- Documentation and functional description of systems
+Desenvolvimento de sistemas de controle para equipamentos industriais, incluindo lógica de operação, integração de dispositivos e ajustes de funcionamento.
+
+## Retrofit de equipamentos
+
+Modernização de máquinas existentes com atualização de sistemas elétricos e de automação, visando melhoria de desempenho, manutenção e confiabilidade.
+
+## Projetos elétricos
+
+Elaboração de diagramas elétricos, layout de painéis, dimensionamento de componentes e definição de arquitetura de controle.
+
+## Segurança de máquinas
+
+Adequação de equipamentos às normas NR-10 e NR-12, incluindo análise de riscos, implementação de proteções e validação de funcionamento seguro.
+
+## Suporte técnico e validação
+
+Atuação junto à fabricação e montagem de máquinas, participando de testes, ajustes e validação de equipamentos.
