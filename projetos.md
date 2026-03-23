@@ -3,7 +3,7 @@ layout: single
 title: "Projetos"
 permalink: /projetos/
 header:
-  overlay_image: /assets/images/lavanderia1.png
+  overlay_image: /assets/images/ia_industria2.png
   overlay_filter: 0.6
 ---
 
