@@ -3,7 +3,7 @@ layout: single
 title: "Atuação"
 permalink: /atuacao/
 header:
-  overlay_image: /assets/images/lavanderia2.jpg
+  overlay_image: /assets/images/ia_industria2.jpg
   overlay_filter: 0.6
 ---
 
