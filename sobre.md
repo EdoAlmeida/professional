@@ -3,7 +3,7 @@ layout: single
 title: "Sobre"
 permalink: /sobre/
 header:
-  overlay_image: /assets/images/sobre.png
+  overlay_image: /assets/images/ia_industria1.jpg
   overlay_filter: 0.6
 ---
 
