@@ -6,7 +6,6 @@ header:
   overlay_image: /assets/images/ia_industria1.jpg
   overlay_filter: 0.6
 
-classes: wide
 ---
 
 Sou Engenheiro de Controle e Automação, com formação técnica em Eletrotécnica e registro ativo no CREA-PR.
