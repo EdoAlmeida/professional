@@ -1,21 +1,29 @@
 <div class="page__footer-follow">
   <ul class="social-icons">
-    {% if site.footer.links %}
-      {% for link in site.footer.links %}
-        <li>
-          <a href="{{ link.url }}" rel="nofollow noopener noreferrer" target="_blank">
-            <i class="{{ link.icon }}" aria-hidden="true"></i>
-            <span>{{ link.label }}</span>
-          </a>
-        </li>
-      {% endfor %}
-    {% endif %}
+    <li>
+      <a href="https://www.linkedin.com/in/SEU-LINK" rel="nofollow noopener noreferrer" target="_blank">
+        <i class="fab fa-linkedin" aria-hidden="true"></i>
+        <span>LinkedIn</span>
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/SEU-USUARIO" rel="nofollow noopener noreferrer" target="_blank">
+        <i class="fab fa-github" aria-hidden="true"></i>
+        <span>GitHub</span>
+      </a>
+    </li>
+    <li>
+      <a href="https://edoalmeida.github.io" rel="nofollow noopener noreferrer" target="_blank">
+        <i class="fas fa-graduation-cap" aria-hidden="true"></i>
+        <span>Acadêmico</span>
+      </a>
+    </li>
   </ul>
 </div>
 
 <div class="page__footer-copyright">
   <p>
-    © {{ site.time | date: '%Y' }} Edo Almeida · Powered by
+    © 2026 Edo Almeida · Powered by
     <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a>
     &
     <a href="https://mmistakes.github.io/minimal-mistakes/" target="_blank" rel="noopener noreferrer">Minimal Mistakes</a>
