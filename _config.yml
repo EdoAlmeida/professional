@@ -28,6 +28,3 @@ footer:
     - label: "Acadêmico"
       icon: "fas fa-graduation-cap"
       url: "https://edoalmeida.github.io"
-
-  custom: custom.html
-  text: ""
