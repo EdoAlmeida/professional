@@ -127,22 +127,6 @@ a:hover {
   text-align: center;
 }
 
-/* Esconde o texto padrão */
-.page__footer-copyright p {
-  display: none;
-}
-
-/* Cria o texto customizado */
-.page__footer-copyright::after {
-  content: "© 2026 Edo Almeida · Powered by Jekyll & Minimal Mistakes";
-}
-
-/* Remove separadores estranhos */
-.page__footer-copyright p:before,
-.page__footer-copyright p:after {
-  content: "" !important;
-}
-
 /* Responsivo */
 @media (max-width: 768px) {
   .page__footer {
