@@ -16,7 +16,6 @@ atom_feed:
   hide: true
   
 footer:
-  custom: custom.html
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
@@ -29,3 +28,5 @@ footer:
     - label: "Acadêmico"
       icon: "fas fa-graduation-cap"
       url: "https://edoalmeida.github.io"
+
+  custom: custom.html
