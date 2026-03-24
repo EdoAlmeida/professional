@@ -1,14 +1,27 @@
+---
+# Only the main Sass file needs front matter
+---
+
+/* =========================
+   TEMA BASE
+========================= */
+@import "minimal-mistakes/skins/air";
+@import "minimal-mistakes";
+
+/* =========================
+   TIPOGRAFIA E TEXTO
+========================= */
 .page__content p {
   font-size: 1.1rem;
   line-height: 1.8;
   color: #374151;
 }
 
-.page__content {
-  max-width: 900px;
-  margin: auto;
+.page__title {
+  letter-spacing: 0.3px;
 }
 
+/* Títulos mais fortes */
 h2 {
   margin-top: 2.5rem;
   font-weight: 600;
@@ -18,14 +31,55 @@ h3 {
   font-weight: 600;
 }
 
+/* =========================
+   LAYOUT (LARGURA E ESPAÇO)
+========================= */
+.page__content {
+  max-width: 900px;
+  margin: auto;
+}
+
+/* =========================
+   LINKS
+========================= */
 a {
   color: #2563eb;
+  transition: all 0.2s ease;
 }
 
 a:hover {
   color: #1d4ed8;
 }
 
+/* =========================
+   HEADER (TOPO)
+========================= */
+.masthead {
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.06);
+}
+
+/* Logo mais equilibrada */
+.site-logo img {
+  max-height: 50px;
+}
+
+/* =========================
+   FEATURE CARDS (se usar)
+========================= */
+.feature__item {
+  border-radius: 14px;
+  padding: 0.8rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.feature__item:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+}
+
+/* =========================
+   FOOTER (RODAPÉ)
+========================= */
 .page__footer {
   background-color: #0b253a;
   color: #e5e7eb;
@@ -34,9 +88,40 @@ a:hover {
 
 .page__footer a {
   color: #60a5fa;
-  font-weight: 500
+  font-weight: 500;
 }
 
 .page__footer a:hover {
   color: #93c5fd;
+}
+
+/* =========================
+   ESPAÇAMENTO ENTRE SEÇÕES
+========================= */
+.page__content > * {
+  margin-bottom: 1.2rem;
+}
+
+/* =========================
+   MELHORIA VISUAL DE LISTAS
+========================= */
+.page__content ul {
+  margin-top: 1rem;
+}
+
+.page__content li {
+  margin-bottom: 0.5rem;
+}
+
+/* =========================
+   RESPONSIVO (mobile)
+========================= */
+@media (max-width: 768px) {
+  .page__content {
+    padding: 0 1rem;
+  }
+
+  .site-logo img {
+    max-height: 40px;
+  }
 }
