@@ -16,6 +16,7 @@ atom_feed:
   hide: true
   
 footer:
+  custom: custom.html
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
