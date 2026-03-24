@@ -4,6 +4,11 @@
   color: #374151;
 }
 
+.page__content {
+  max-width: 900px;
+  margin: auto;
+}
+
 h2 {
   margin-top: 2.5rem;
   font-weight: 600;
@@ -11,6 +16,14 @@ h2 {
 
 h3 {
   font-weight: 600;
+}
+
+a {
+  color: #2563eb;
+}
+
+a:hover {
+  color: #1d4ed8;
 }
 
 .page__footer {
