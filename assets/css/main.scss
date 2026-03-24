@@ -78,30 +78,66 @@ a:hover {
 }
 
 /* =========================
-   FOOTER (RODAPÉ)
+   FOOTER PROFISSIONAL
 ========================= */
 .page__footer {
-  background-color: #0b253a;
+  background: linear-gradient(135deg, #0b253a, #0f3a5c);
   color: #e5e7eb;
-  padding: 2rem 0;
+  padding: 2.5rem 0;
+  text-align: center;
 }
 
+/* Links do rodapé */
 .page__footer a {
-  color: #60a5fa;
+  color: #cbd5e1;
   font-weight: 500;
+  text-decoration: none;
+  transition: all 0.25s ease;
 }
 
+/* Hover elegante */
 .page__footer a:hover {
-  color: #93c5fd;
+  color: #60a5fa;
 }
 
+/* Ícones */
 .page__footer i {
-  color: #cbd5f5; /* branco suave */
-  transition: all 0.2s ease;
+  color: #cbd5e1;
+  font-size: 1.2rem;
+  transition: all 0.25s ease;
 }
 
+/* Hover dos ícones */
 .page__footer a:hover i {
-  color: #60a5fa; /* azul ao passar mouse */
+  color: #60a5fa;
+  transform: translateY(-1px);
+}
+
+/* Espaçamento entre itens */
+.page__footer a {
+  margin: 0 0.8rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+/* Linha de copyright */
+.page__footer-copyright {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: #94a3b8;
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+  .page__footer {
+    padding: 2rem 1rem;
+  }
+
+  .page__footer a {
+    display: block;
+    margin: 0.5rem 0;
+  }
 }
 
 /* =========================
