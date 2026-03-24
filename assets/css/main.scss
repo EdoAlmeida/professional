@@ -78,8 +78,9 @@ a:hover {
 }
 
 /* =========================
-   FOOTER PROFISSIONAL
+   FOOTER PROFISSIONAL FINAL
 ========================= */
+
 .page__footer {
   background: linear-gradient(135deg, #0b253a, #0f3a5c);
   color: #e5e7eb;
@@ -87,54 +88,56 @@ a:hover {
   text-align: center;
 }
 
-/* Links do rodapé */
+/* Links (LinkedIn, GitHub, etc) */
 .page__footer a {
   color: #cbd5e1;
   font-weight: 500;
   text-decoration: none;
   transition: all 0.25s ease;
-}
-
-/* Hover elegante */
-.page__footer a:hover {
-  color: #60a5fa;
-}
-
-/* Ícones */
-.page__footer i {
-  color: #cbd5e1;
-  font-size: 1.2rem;
-  transition: all 0.25s ease;
-}
-
-/* Hover dos ícones */
-.page__footer a:hover i {
-  color: #60a5fa;
-  transform: translateY(-1px);
-}
-
-/* Espaçamento entre itens */
-.page__footer a {
-  margin: 0 0.8rem;
+  margin: 0 1rem;
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
 }
 
-/* Linha de copyright */
-.page__footer-copyright {
-  margin-top: 1rem;
-  font-size: 0.9rem;
-  color: #94a3b8;
-}
-.page__footer-copyright p {
-  display: inline;
+/* Hover links */
+.page__footer a:hover {
+  color: #60a5fa;
 }
 
+/* Ícones (todos no mesmo padrão) */
+.page__footer i,
+.page__footer .fab,
+.page__footer .fas {
+  color: #cbd5e1 !important;
+  font-size: 1.2rem;
+  transition: all 0.25s ease;
+}
+
+/* Hover ícones */
+.page__footer a:hover i {
+  color: #60a5fa !important;
+  transform: translateY(-1px);
+}
+
+/* Copyright em linha única */
 .page__footer-copyright {
-  text-align: center;
+  margin-top: 1.2rem;
   font-size: 0.9rem;
   color: #94a3b8;
+  text-align: center;
+}
+
+/* Força tudo ficar inline */
+.page__footer-copyright p {
+  display: inline;
+  margin: 0;
+}
+
+/* Remove separadores estranhos */
+.page__footer-copyright p:before,
+.page__footer-copyright p:after {
+  content: "" !important;
 }
 
 /* Responsivo */
