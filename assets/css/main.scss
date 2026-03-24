@@ -95,6 +95,15 @@ a:hover {
   color: #93c5fd;
 }
 
+.page__footer i {
+  color: #cbd5f5; /* branco suave */
+  transition: all 0.2s ease;
+}
+
+.page__footer a:hover i {
+  color: #60a5fa; /* azul ao passar mouse */
+}
+
 /* =========================
    ESPAÇAMENTO ENTRE SEÇÕES
 ========================= */
