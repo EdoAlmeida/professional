@@ -28,4 +28,5 @@ footer:
     - label: "Acadêmico"
       icon: "fas fa-graduation-cap"
       url: "https://edoalmeida.github.io"
-      
+
+classes: wide
