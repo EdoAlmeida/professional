@@ -1,6 +1,7 @@
 title: ""
 logo: "/assets/images/LogoEdoAlmeida.png"
 description: "Professional website"
+favicon: "/assets/images/favicon.png"
 
 url: "https://edoalmeida.github.io"
 baseurl: "/professional"
@@ -11,8 +12,6 @@ plugins:
   - jekyll-include-cache
 
 minimal_mistakes_skin: "air"
-
-favicon: "/assets/images/favicon.png"
 
 atom_feed:
   hide: true
