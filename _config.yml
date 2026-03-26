@@ -12,7 +12,7 @@ plugins:
 
 minimal_mistakes_skin: "air"
 
-favicon: "/assets/images/favicon.svg"
+favicon: "/assets/images/favicon.png"
 
 atom_feed:
   hide: true
